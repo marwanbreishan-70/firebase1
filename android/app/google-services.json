@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825013653940",
+    "project_id": "exile1-c1887",
+    "storage_bucket": "exile1-c1887.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825013653940:android:4dbadcae63c8ebdc8f62e1",
+        "android_client_info": {
+          "package_name": "com.example.file_exal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDht_hE027Deup5uSXAKtuXxQ8Mj7-z_lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
